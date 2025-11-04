@@ -11,6 +11,7 @@ app.use(
       "http://localhost:5174",
       "http://localhost:4000",
       // add production url
+      "http://34.224.57.156",
     ],
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE"],
